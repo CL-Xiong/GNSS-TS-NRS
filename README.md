@@ -7,7 +7,7 @@ When MATLAB2019 has been installed on the computer, you can run this program as 
 	b.Add ‘GNSS-TS-NRS’ to the current path of MATLAB
 	c.Run "GNSS_TS_NRS.m" or enter "GNSS_TS_NRS" on the command line to run the main interface of the software
 2. Description:
-‘GNSS-TS-NRS’ is a software package that can be used to process GNSS time series, composed of 5 modules:
+‘GNSS-TS-NRS’ is a software package that can be used to process GNSS time series, composed of 5 modules:
 a.Time series noise reduction module:
 Data input: Real times series and simulated times series (white noise & colored noise);
 Noise reduction algorithms: EMD, EEMD, three new algorithms (details in the paper);
