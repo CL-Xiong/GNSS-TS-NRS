@@ -53,7 +53,7 @@ Co-located sites: Search for collocated stations based on reference distance bet
 
 Also, the station database can be changed by user.
 
-**3. How to cite: **
+**3. How to site:**
 
 If your think this package useful, please cite our work as you find the GNSS-TS-NRS program useful, please cite it in your work as: X. He, K. Yu, J.P. Montillet, C. Xiong\*, T. Lu, S. Zhou, X. Ma, H. Cui, F. Ming GNSS-TS-NRS: An Open-source MATLAB Based GNSS Time Series Noise Reduction Software, 2020, underview.  
 
