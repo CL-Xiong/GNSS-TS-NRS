@@ -55,22 +55,17 @@ Co-located sites: Search for collocated stations based on reference distance bet
 Also, the station database can be changed by user.
 
 The following diagram shows is the main interface of GNSS-TS-NRS and the procedure of data analysis can be seen in the user
-
 operation video guide. 
 
 ![Image text](https://github.com/CL-Xiong/img-folder/blob/main/main.png)
 
-
 **3. How to site:**
 
 If you find the GNSS-TS-NRS program is useful, please cite it in your work as: X. He, K. Yu, J.P. Montillet, C. Xiong*, T. 
-
 Lu, S. Zhou, X. Ma, H. Cui, F. Ming. GNSS-TS-NRS: An Open-source MATLAB Based GNSS Time Series Noise Reduction Software, 
-
 2020, underview.
 
 **4. Contact information:**
 
 If you have any comments or questions, please don’t hesitate to contact Mr. He (hexiaoxingsgg@gmail.com) and Mr. Xiong (cl-
-
 xiong@qq.com), and you are appreciated very much.
