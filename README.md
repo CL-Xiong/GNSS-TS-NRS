@@ -2,7 +2,7 @@
 
 Requirements
 
-Users can run &#39;GNSS-TS-NRS&#39; under any operating system with MATLAB software installed. MATLAB2020b can be the most suitable version, if you have problems in this, you can contact [cl-xiong@qq.com](mailto:cl-xiong@qq.com) for help.
+Users can run &#39;GNSS-TS-NRS&#39; under any operating system with MATLAB software installed. MATLAB2020b should be the most suitable version, if you have problems in this, you can contact [cl-xiong@qq.com](mailto:cl-xiong@qq.com) for help.
 
 Installation
 
@@ -13,7 +13,9 @@ When MATLAB2020b has been installed on the computer, you can run this program as
 - Run &quot;GNSS\_TS\_NRS.m&quot; or enter &quot;GNSS\_TS\_NRS&quot; on the command line to run the main interface of the software
 
 **2. Description:**
+
 main interface
+
 ![Image text](https://github.com/CL-Xiong/img-folder/blob/main/main.png)
 
 
