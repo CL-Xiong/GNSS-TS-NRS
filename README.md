@@ -13,6 +13,9 @@ When MATLAB2020b has been installed on the computer, you can run this program as
 - Run &quot;GNSS\_TS\_NRS.m&quot; or enter &quot;GNSS\_TS\_NRS&quot; on the command line to run the main interface of the software
 
 **2. Description:**
+main interface
+![Image text](https://raw.github.com/CL-Xiong/repositpry/master/img-folder/main.jpg)
+
 
 &#39;GNSS-TS-NRS&#39; is a software package that can be used to process GNSS time series, composed of 5 modules:
 
