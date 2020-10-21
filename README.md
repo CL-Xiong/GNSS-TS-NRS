@@ -67,5 +67,5 @@ Lu, S. Zhou, X. Ma, H. Cui, F. Ming. GNSS-TS-NRS: An Open-source MATLAB Based GN
 
 **4. Contact information:**
 
-If you have any comments or questions, please don’t hesitate to contact Mr. He (hexiaoxingsgg@gmail.com) and Mr. Xiong (cl-
+If you have any comments or questions, please don’t hesitate to contact Dr. He (hexiaoxing@whu.edu.cn) and Mr. Xiong (cl-
 xiong@qq.com), and you are appreciated very much.
