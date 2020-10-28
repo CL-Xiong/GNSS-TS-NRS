@@ -61,7 +61,7 @@ operation video guide.
 
 </big></big>**3. How to cite:**</big></big>
 
-If you find the GNSS-TS-NRS program is useful, **please cite it in your work as:Xiaoxing He , Kegen Yu, Jean-Philippe Montillet, Changliang Xiong, Tieding Lu, Shijian Zhou, Xiaping Ma, Hongchao Cui and Feng Ming GNSS-TS-NRS: An Open-source MATLAB-Based GNSS Time Series Noise Reduction Software, Remote Sensing, 2020, accepted to appear.**
+If you find the GNSS-TS-NRS program is useful, **please cite it in your work as:He, X.; Yu, K.; Montillet, J.-P.; Xiong, C.; Lu, T.; Zhou, S.; Ma, X.; Cui, H.; Ming, F. GNSS-TS-NRS: An Open-Source MATLAB-Based GNSS Time Series Noise Reduction Software. Remote Sens. 2020, 12, 3532. (doi:10.3390/rs12213532).**
 
 </big>**4. Contact information:**</big>
 
